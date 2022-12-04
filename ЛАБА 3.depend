@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1666323769 source:c:\users\ÔÀÀ\desktop\ËÀÁÀ 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1666326482 source:c:\users\ÔÀÀ\desktop\ËÀÁÀ 3\var.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1666323847 source:c:\users\ÔÀÀ\desktop\ËÀÁÀ 3\ïîëíàÿ ïğîãà.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
